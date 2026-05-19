@@ -1,0 +1,147 @@
+no,detailed_decription,detail_case_gangguan,gt_detail_case_gangguan,score_detail_case_gangguan
+511,"id_pengukuran: ""1744328619174820"",
+  hostname_olt: ""GPON02-D3-SOR-2"",
+  ip_olt: ""172.21.196.32"",
+  olt_tx: ""7.13"",
+  olt_rx: ""null"",
+  onu_id_port: ""GPON02-D3-SOR-2 xpon 0/11/0/8:1.3.200"",
+  onu_tx: ""null"",
+  onu_rx: ""null"",
+  details_mycx: ""LOS, UP-11264KB0, DOWN-33792KB0, Fisik, Fiber, -Teknologi : Fiber -Rx Power : null dBm OLT -Rx Power : null dBm OLT -Hostname : GPON02-D3-SOR-2 -IP : 172.21.196.32 -Port : 0/11/8/1 -Type : -Status ONU : LOS -Fiber Length : -1"",
+  sn_stb: ""5A544547D816023E"",
+  Status: ""Active"",
+  CT0: ""Yes"",
+  CAPS: ""No""
+131174100401 inet  kendala sharing lan ketika ssid name di Hide semua perangkat relesad padahal harusnya otomatis nyambung, 131174100401 inet  kendala sharing lan ketika ssid name di Hide semua perangkat relesad padahal harusnya otomatis nyambung
+
+No Indihome   131174100401
+Nama Pelanggan    BP JENAL
+NIK  -
+CP  0822*****312
+Email  -
+OrderID-
+Tgl Kejadian   11.04.02025
+Case    inet  kendala sharing lan ketika ssid name di Hide semua perangkat relesad padahal harusnya otomatis nyambung. moban rekan pelanggan tetep wifinya mau di hide dan semua perangkat tetep nyambung 
+Capt lightshoot  https://prnt.sc/niA8ZuHwzGRg
+Loker CCBDG
+Solusi   tiket 
+Booking Teknisi  -
+Pool ID   network 
+Status INSERA","Kendala sharing LAN ketika SSID name di hide, semua perangkat terlepas padahal harusnya otomatis nyambung","Kendala sharing LAN ketika SSID name di hide, semua perangkat terlepas padahal harusnya otomatis nyambung",1
+530,"#Pelanggan by.U
+Dear rekan mohon dibantu eskalasi ke agit by.U cek dan create CSTools dari MSISDN 0851*****391, karena pelangggan sudah berhasil aktivasi legacy. Berikut datanya:
+MSISDN: 0851*****391
+kuota 3 gb:
+Case: tidak dapat digunakan
+BSS: 12451364511364
+profile id: 548945027
+account id: 1048851929
+
+
+Product Type: SIM Card
+Category Type: I JOIN - Aktivasi SIM Card
+Category Name: Tidak Bisa Aktivasi SIM Card Dengan Kode Error Lain
+",Pelanggan sudah berhasil aktivasi legacy namun kuota 3GB tidak dapat digunakan,Pelanggan sudah berhasil aktivasi legacy namun kuota 3GB tidak dapat digunakan,1
+605,"[Regular][PLATINUM] 
+Nama Customer : WIWIN SUHARTINAH
+MSISDN-A Yang Menghubungi : 6281*****992
+MSISDN-B Yang Bermasalah : 6281*****992
+Tanggal Kejadian : 11/04/2025 
+Lokasi Pelanggan (alamat) : 
+Segmentasi Kartu : Halo 
+SIM Capability : SIM 
+Customer Tier Pelanggan : [PLATINUM] 
+Case Owner : Call Center Semarang
+Detail Complain : k- paket Entertainment MusicMAX Reguler
+ket: mohon dibantu pengecekkan apakah paketnya langganan atau tidak, ybs ingin dibantu hapuskan
+Solusi yang telah diberikan : val ok, co cek https://prnt.sc/1rtCWo3JXheO, mohon dibantu pastikan, Dear rekan IT, Mohon dibantu terkait permintaan pelanggan tsb. https://prnt.sc/1rtCWo3JXheO
+Music 5.24 GB 
+Berakhir pada 02/05/2025
+Youtube 234.41 MB 
+Berakhir pada 02/05/2025
+Trims@mix_chobdg_24263988_INT4
+",Pelanggan ingin dibantu pengecekan apakah paket Entertainment MusicMAX Reguler langganan atau tidak dan meminta bantuan untuk menghapuskan paket tersebut,Pelanggan ingin dibantu pengecekan apakah paket Entertainment MusicMAX Reguler langganan atau tidak dan meminta bantuan untuk menghapuskan paket tersebut,1
+659,"MSISDN: 152407255153
+CN: MELON GOLD
+AO Keyword: AO_UFO_INDIHOME_REMOVE_ADD_ON
+",Permintaan remove add on Indihome,Permintaan remove add on Indihome,1
+249,"122602235888 Tlp matot, 122602235888 Tlp matot
+
+No Indihome : 122602235888
+Nama Pelanggan : RITA
+NIK :
+CP : 6282******111
+Email : sa*******@gmail.com
+OrderID :
+Tgl Kejadian : 07:38 11/04/2025
+Case  : Tlp matot ONT Power Off
+Pelanggan mengeluhkan  Tlp matot onu ont power off sudah edu pastikan adaptor terpasang dengan benar, pastikan dapat mengeluarkan listrik, dan tidak dalam keadaan listrik padam. Dan pastikan kondisi Lampu Indikator Power, PON/LINK, Wifi/WLAN ONT menyala. pelanggan ingin segera ada konfirmasi dan perbaikan segera karna layanan akan d gunakan terimakasih 
+Capt lightshoot  : https://prnt.sc/t0osoY7FJVRo
+Loker  : CCSMG
+Solusi  : open tiket 
+Booking Teknisi :
+Pool ID  :  Network
+Status INSERA : Tidak Ditemukan
+
+Moban rekan, Terimakasih","Telepon mati karena ONT power off, pelanggan sudah melakukan edukasi untuk memastikan adaptor terpasang dengan benar dan kondisi lampu indikator","Telepon mati karena ONT power off, pelanggan sudah melakukan edukasi untuk memastikan adaptor terpasang dengan benar dan kondisi lampu indikator",1
+230,"ITSD - Cancel Prepaid
+MSISDN: 6281******497
+AO Keyword: AO_Digitalization3_Cancel_Prepaid
+AO Keyword: AO_Digitalization3_Cancel_Prepaid",Upgrade Prepaid,Cancel Prepaid,0
+387,"[Regular][Gold]      
+Nama Customer : Bpk FUAD FAUZI|Halo+Bold 25GB|80K
+MSISDN-A Yang Menghubungi : 6281****971
+MSISDN-B Yang Bermasalah : 6281****971
+Tanggal Kejadian : 10/4/2025
+Lokasi Pelanggan (alamat) : 
+Segmentasi Kartu : Telkomsel Halo
+SIM Capability : USIM
+Customer Tier Pelanggan : Gold
+Case Owner : Call Center Semarang
+Detail Complain : Permintaan perubahan paket Halo  
+Solusi yang telah diberikan : val ok, dibantu perubahan paket dari paket halo+ bold 150k ke paket halo+Bold 80K karena sudahmenggunakan orbit,order ID 1102898157 namun cancelled . bantu tiket, mohon bantu ganti paket nya ya kak tq, Price Plan :  https://prnt.sc/eZDu9qmGHPfG 
+
+Tanggal Pembelian:2024-07-11T19:27:55.000+07:00 ID Transaksi:k4190a1c3b15629971000900002b976Hca300001000 subscribedPackageSubscribed Halo+ Bold 150K Validity 1BC Roaming Halo 200MB Internet 85GB Harga Rp150.000 
+
+Change110289815722242861WICREQ11-04-2025 12:56:26Cancelled 
+
+Dear Rekan IT ,
+Mohon dibantu pengecekan kendala pelanggan msisdn  6281****971  kendala ganti paket ke Halo+ Bold 80K sudah dibantu via DSC dengan Order 1102898157 status cancelled dengan keterangan  Reason: Decompose failedDecompose failedDecompose failedDecompose  . Mohon dibantu pengecekan gagal ganti paket tersebut 
+
+Terimakasih
+Kamal_chsmg  
+24264721
+",Permintaan perubahan paket dari Halo+ Bold 350K ke Halo+ Bold 180K gagal dengan status cancelled,Permintaan perubahan paket dari Halo+ Bold 150K ke Halo+ Bold 80K gagal dengan status cancelled,0
+419,"permintaan deaktivasi Add on OTT 131174110982, Dear rekan, mohon bantu deaktivasi OTT
+no IH : 131174110982 
+Nama : DEDI ISKANDAR
+Dear Rekan IT FMC 
+Mohon dibantu 
+No internet : 131174110982 
+Order ID : DOk42503131211472364ce3a0
+Nama : DEDI ISKANDAR
+Add ON : USEETV INTRO HD
+ID remedy  : REQ000010974367 INC000013911861
+No hp : 6285******236
+Email : is**************@gmail.com
+Tanggal Kejadian : 13-03-2025
+Loker : GraPARI Soreang
+Kendala : mohon bantu pelanggan sebelumnya order DO namun status mandeg FIBER FULLFILMENT IN PROGRESS DIKARENAKAN TERDAPAT FITUR ADD ON. sudah dibantu remedy AO untuk Remove Add on dengan ID REQ000010974367 ket Transaksi Failed, mohon dieskalasi ke IT L1. 
+
+terlampir capturenya:  https://prnt.sc/437poKdIaoIO
+mohon bantuan untuk remove add on tersebut agar proses DO completed dan tagihan tidak terus berjalan tq",Permintaan aktivasi Add on OTT karena status DO mandeg FIBER FULLFILMENT IN PROGRESS dikarenakan terdapat fitur add on yang  berhasil di-remove,Permintaan deaktivasi Add on OTT karena status DO mandeg FIBER FULLFILMENT IN PROGRESS dikarenakan terdapat fitur add on yang belum berhasil di-remove,0
+509,"User domain: 24362148 
+reset password",Reset password untuk user domain 2234254,Reset password untuk user domain 24362148,0
+562,"MSISDN-A Yang Bermasalah : 6282******548
+MSISDN-B Yang Menghubungi :   6282******548
+Nama :   risma
+Tanggal/Jam :  10:55 11/04/2025
+Lokasi  :  
+Segmentasi kartu : Simpati/AS/ Loop/HALO
+SIM Capability : SIM/USIM
+Case Owner : call center semarang
+Detail Complaint :  gagal kirim gift kuota inet 30 gb  6285******140  11/04/2025 melalui apk mytsel dg klaim voucher dan pembayaran via link aja 
+Additional Information :
+Solusi :  val ok, bantu tiket dan kirimkan bukti transaksi ke email, Dear rekan IT mohon dibantu pengecekan lebih lanjut utk casenya.
+MSISDN-A Yang Bermasalah : 6282******548 MSISDN-B Yang Menghubungi : 6282******548 Nama : risma Tanggal/Jam : 10:55 11/04/2025 Lokasi : Segmentasi kartu : Simpati/AS/ Loop/HALO SIM Capability : SIM/USIM Case Owner : call center semarang Detail Complaint : gagal kirim gift kuota inet 30 gb 6285******140 11/04/2025 melalui apk mytsel dg klaim voucher dan pembayaran via link aja.
+thx adi_cho_bdg [INT4_CHO]",Gagal kirim kuota internet 80 GB melalui aplikasi MyTelkomsel dengan klaim voucher dan pembayaran via LinkAja,Gagal kirim gift kuota internet 30 GB melalui aplikasi MyTelkomsel dengan klaim voucher dan pembayaran via LinkAja,0

@@ -1,0 +1,65 @@
+[tool.poetry]
+name = "first-quest"
+version = "0.0.2"
+package-mode = false
+
+[tool.poetry.dependencies]
+fastapi = "0.115.0"
+
+gllm-core = { version = "^0.3.0", source = "gen-ai-internal" }
+gllm-privacy = { version = "^0.2.0", source = "gen-ai-internal" }
+gllm-inference = { version = "^0.4.0", source = "gen-ai-internal", extras = ["anthropic", "google-genai", "google-vertexai", "openai"] }
+gllm-datastore = { version = "^0.3.0", source = "gen-ai-internal", extras = ["chroma", "elasticsearch", "kg"] }
+gllm-misc = { version = "^0.4.0", source = "gen-ai-internal" }
+gllm-docproc = { version = "^0.3.0", source = "gen-ai-internal", extras = ["docx", "pdf"] }
+gllm-retrieval = { version = "^0.5.0", source = "gen-ai-internal", extras = ["elasticsearch", "flag_embedding", "kg", "sql"] }
+gllm-generation = { version = "^0.4.0", source = "gen-ai-internal" }
+gllm-pipeline = { version = "^0.4.0", source = "gen-ai-internal" }
+gllm-rag = { version = "^0.3.0", source = "gen-ai-internal" }
+
+pre-commit = "^3.7.0"
+python = ">=3.11,<3.13"
+python-dotenv = "1.0.1"
+ruff = "^0.6.7"
+uvicorn = "0.34.0"
+
+[tool.ruff]
+line-length = 120
+
+[tool.ruff.lint]
+ignore = ["B026", "C400", "C901", "E203", "E266", "E501", "F401", "F403", "F821"]
+select = ["B", "B9", "C", "D", "E", "F", "I", "PL", "W"]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.plugins."poetry.application.plugin"]
+shell = "poetry_plugin_shell.plugin:ShellPlugin"
+
+[[tool.poetry.source]]
+name = "gen-ai-internal"
+url = "https://asia-southeast2-python.pkg.dev/gdp-labs/gen-ai-internal/simple/"
+priority = "supplemental"
+
+[[tool.poetry.source]]
+name = "gen-ai"
+url = "https://asia-southeast2-python.pkg.dev/gdp-labs/gen-ai/simple/"
+priority = "supplemental"
+
+[[tool.poetry.source]]
+name = "gen-ai-internal-publication"
+url = "https://asia-southeast2-python.pkg.dev/gdp-labs/gen-ai-internal/"
+priority = "explicit"
+
+[[tool.poetry.source]]
+name = "gen-ai-publication"
+url = "https://asia-southeast2-python.pkg.dev/gdp-labs/gen-ai/"
+priority = "explicit"
+
+[[tool.poetry.source]]
+name = "pypi"
+priority = "primary"

@@ -1,0 +1,5 @@
+---
+icon: folder-closed
+---
+
+# Legacy
